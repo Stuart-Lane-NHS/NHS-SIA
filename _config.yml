@@ -1,13 +1,13 @@
 # Edit these site settings
 # ------------------------------------------
-title:             nhsuk-static-jekyll
-email:             craig.shenton@nhs.net
-author:            Craig Robert Shenton
-description:       "Static Jekyll implementation of the NHS.UK service manual "
-url:               "https://craig-shenton.github.io/"
-baseurl:           "nhsuk-static-jekyll/"
-github_username:   craig-shenton
-linkedin_username: craigrshenton
+title:             NHS-SIA
+email:             stuart.lane@uhd.nhs.uk
+author:            Stuart Lane
+description:       "NHS Sustainability Impact Assessment Template "
+url:               "https://Stuart-Lane_NHS.github.io/"
+baseurl:           "NHS-SIA"
+github_username:   Stuart-Lane-NHS
+linkedin_username: StuartLaneGreen
 date_format:       "%b %-d, %Y"
 # ------------------------------------------
 
